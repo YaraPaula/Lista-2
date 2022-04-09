@@ -1,0 +1,36 @@
+c {
+   color: rgb(83, 100, 113);
+}
+.no-style a{
+   text-decoration: none;
+   color: rgb(15, 20, 25);
+}
+t:hover{
+   background-color: rgba(249, 24, 128, 0.1);
+   text-decoration: underline;
+   border-radius: 5px;
+}
+r:hover{
+   background-color: rgba(29, 155, 240, 0.1);
+   text-decoration: underline;
+   border-radius: 5px;
+}
+e:hover{
+   background-color: rgba(0, 186, 124, 0.1);
+   text-decoration: underline;
+   border-radius: 5px;
+}
+l:hover{
+   background-color: rgba(249, 24, 128, 0.1);
+   text-decoration: underline;
+   border-radius: 5px;
+}
+li {
+   padding: 5px;
+   width: 700px;
+   list-style-type: none;
+}
+li:hover{
+   background-color: rgb(15, 25, 20, 0.1);
+   border-radius: 10px;
+}
