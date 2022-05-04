@@ -1,28 +1,47 @@
-c {
+.nav a{
+    color: rgb(15, 20, 25);
+    text-decoration: none;
+}
+
+.estatistica a{
    color: rgb(83, 100, 113);
-}
-.no-style a{
    text-decoration: none;
+}
+
+.estatistica a:hover{
+   text-decoration: underline;
+}
+
+.estatistica b{
    color: rgb(15, 20, 25);
 }
-t{
-   color: rgb(15, 20, 25);
+
+.pub a{
+   color: rgb(83, 100, 113);
+   text-decoration: none;
 }
-t:hover{
-   background-color: rgba(15, 25, 20, 0.1);
-   border-radius: 5px;
+
+.tzeet font:hover{
+   background-color: rgba(0,0,0,0.03);
 }
-r:hover{
+
+.r a:hover{
    background-color: rgba(29, 155, 240, 0.1);
    text-decoration: underline;
    border-radius: 5px;
 }
-e:hover{
+
+.t a:hover{
+    background-color: rgba(15, 25, 20, 0.1);
+    border-radius: 5px;
+ }
+
+.e a:hover{
    background-color: rgba(0, 186, 124, 0.1);
    text-decoration: underline;
    border-radius: 5px;
 }
-l:hover{
+.l a:hover{
    background-color: rgba(249, 24, 128, 0.1);
    text-decoration: underline;
    border-radius: 5px;
